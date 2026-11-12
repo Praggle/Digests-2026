@@ -1,0 +1,7 @@
+Bonjour {{ USERNAME }},
+
+Ce message vous informe qu’un administrateur du forum {{ FORUM_NAME }} vous a désabonné de la réception des résumés par courriel.
+
+Cordialement,
+
+L’équipe d’administration du forum {{ FORUM_NAME }}

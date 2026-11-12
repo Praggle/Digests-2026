@@ -1,0 +1,6 @@
+Hallo {{ USERNAME }},
+
+wie gewünscht wurde die regelmäßige Zustellung von E-Mail-Zusammenfassungen vom {{ FORUM_NAME }} soeben beendet. 
+
+Herzlichen Gruß,
+das Administrationsteam von {{ FORUM_NAME }}

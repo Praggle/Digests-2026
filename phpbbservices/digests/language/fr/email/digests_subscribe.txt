@@ -1,0 +1,9 @@
+Bonjour {{ USERNAME }},
+
+Ce message vous informe qu’un administrateur du forum {{ FORUM_NAME }} vous a abonné à la réception d’un résumé {{ DIGESTS_TYPE }} {{ DIGESTS_FORMAT }}. Si vous ne souhaitez plus recevoir de résumé, réglez sur « Aucun » l'option « Fréquence d'envoi du résumé », accessible depuis l’onglet « Résumés » du panneau de contrôle de l’utilisateur du forum. Vous pouvez également y accéder en cliquant sur le lien suivant :
+
+{{ DIGESTS_UCP_LINK }}
+
+Cordialement,
+
+L’équipe d’administration du forum {{ FORUM_NAME }}

@@ -1,0 +1,9 @@
+Bonjour {{ USERNAME }},
+
+Ce message vous informe qu’un administrateur du forum {{ FORUM_NAME }} a modifié vos réglages de résumés. Pour visualiser vos nouveaux réglages, utilisez le lien suivant, puis sélectionnez l’onglet « Résumés » :
+
+{{ DIGESTS_UCP_LINK }}
+
+Cordialement,
+
+L’équipe d’administration du forum {{ FORUM_NAME }}

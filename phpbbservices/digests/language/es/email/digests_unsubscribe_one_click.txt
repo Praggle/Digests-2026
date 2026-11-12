@@ -1,0 +1,7 @@
+Estimado {{ USERNAME }},
+
+Según lo solicitado, ya no estás suscrito para recibir resúmenes del foro {{ FORUM_NAME }}.
+
+Atentamente,
+
+Equipo de Administración de {{ FORUM_NAME }}
