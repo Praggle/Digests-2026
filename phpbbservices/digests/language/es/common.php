@@ -58,10 +58,6 @@ $lang = array_merge($lang, array(
 También puedes cambiar o eliminar tu suscripción desde el Panel de Control del Usuario del foro.
 	
 Si tienes preguntas o comentarios sobre tus resúmenes, envíalos al webmaster: %4$s.',
-	
-You can also change or delete your subscription from the board\'s User Control Panel.
-	
-If you have questions or feedback on your digests, please send them to the webmaster: %4$s.',
 	'DIGESTS_EXPLANATION'				=> 'Esto son resúmenes de las entradas que se te envian periódicamente. Los resúmenes se pueden enviar diariamente, semanalmente o mensualmente a la hora que escojas. Puedes seleccionar algunos foros que te interesen o por defecto puedes seleccionar todas las entradas de todos los foros que quieres leer. Puedes cancelar tu suscripción al resúmen en cualquier momento desde esta página. Muchos usuarios encuentran muy útiles estos resúmenes. ¡Te recomendamos que lo pruebes!',
 	'DIGESTS_FILTER_ERROR'				=> 'El mailer de los resúmenes ha generado un inválido user_digest_filter_type = %s',
 	'DIGESTS_FILTER_FOES'				=> 'Eliminar entradas de mis enemigos',
